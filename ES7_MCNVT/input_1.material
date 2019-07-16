@@ -1,0 +1,10 @@
+120
+0.34
+39.948
+
+  ReadMaterial >> e_kb (K);
+  ReadMaterial >> Sigma (nm);
+  ReadMaterial >> mass (a.m.u.);
+
+  Data for Argon
+

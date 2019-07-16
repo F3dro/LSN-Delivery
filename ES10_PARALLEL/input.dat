@@ -1,0 +1,15 @@
+30
+30
+1
+1
+3
+2.1
+100
+
+  ReadInput >> ncities;
+  ReadInput >> nstep;
+  ReadInput >> conf_type; // 1 for circumsphere, 2 for cyrcle
+  ReadInput >> R; //Radius if conf_type==1 (circumsph.), side if conf_type==2
+  ReadInput >> temp_in;
+  ReadInput >> tau;
+  ReadInput >> nstep_per_T;

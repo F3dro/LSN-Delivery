@@ -1,0 +1,13 @@
+10000 
+6 
+100 
+0.8061224489795918 
+0.6071428571428571 
+1 
+
+  ReadInput >> nstep; //(per block) 
+  ReadInput >> passo; 
+  ReadInput >> nblk; 
+  ReadInput >> mu; 
+  ReadInput >> sig; 
+  ReadInput >> x;

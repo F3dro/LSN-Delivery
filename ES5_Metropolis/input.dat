@@ -1,0 +1,15 @@
+1000000
+2.5
+25
+25
+25
+1
+U
+
+  ReadInput >> nstep;
+  ReadInput >> passo; //suggested: 2.5 for 1s and 6 for 2p -> uniform && 2 for 1s and 3.7 for 2p -> gaussian
+  ReadInput >> x0;
+  ReadInput >> y0;
+  ReadInput >> z0;
+  ReadInput >> state;
+  ReadInput >> distribution; // U for Uniform, G for Gaussian

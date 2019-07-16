@@ -1,0 +1,9 @@
+164
+0.364
+83.798
+
+  ReadMaterial >> e_kb (K);
+  ReadMaterial >> Sigma (nm);
+  ReadMaterial >> mass (a.m.u.);
+
+  Data for Krypton
